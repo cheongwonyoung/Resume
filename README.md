@@ -5,6 +5,9 @@
 - 이름 : 정원영
 - 소속 : 소프트웨어융합대학   
 - 전공 : 빅데이터 전공
+- github address: [cheongwonyoung][github]
+
+[github]:http://github.com/cheongwonyoung
 ---
 
 관심분야   
@@ -12,8 +15,8 @@
 * **나**
 * 다
 
-프로그래밍 언어 스킬
-1. **Python**
+Tech
+1. Python
 2. Java
 3. Python
 4. R
@@ -33,6 +36,4 @@
 |[삶의질문]삶의큰질문:사랑|기초|3|
 
 
-github address: [cheongwonyoung][github]
 
-[github]:http://github.com/cheongwonyoung
