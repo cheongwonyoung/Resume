@@ -6,7 +6,7 @@
 - 소속 : 소프트웨어융합대학   
 - 전공 : 빅데이터 전공
 - github address: [cheongwonyoung][github]
-
+- email : kaka491@naver.com
 [github]:http://github.com/cheongwonyoung    
 
 ---
