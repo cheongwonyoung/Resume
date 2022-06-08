@@ -13,7 +13,7 @@
 * 다
 
 프로그래밍 언어 스킬
-1. *Python
+1. **Python**
 2. Java
 3. Python
 4. R
