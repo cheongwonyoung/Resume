@@ -7,7 +7,8 @@
 - 전공 : 빅데이터 전공
 - github address: [cheongwonyoung][github]
 
-[github]:http://github.com/cheongwonyoung
+[github]:http://github.com/cheongwonyoung    
+
 ---
 
 관심분야   
